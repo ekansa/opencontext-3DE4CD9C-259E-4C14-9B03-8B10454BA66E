@@ -9,3 +9,5 @@ Open Context <http://opencontext.org> is an open access data publishing service 
 Open Context encourages reuse of these data and adaptation of these data, provided data creators are properly cited and credited.
 
 Please refer to this project's overview in Open Context at <http://opencontext.org/projects/3DE4CD9C-259E-4C14-9B03-8B10454BA66E> for more information on licensing and how to cite these data.
+
+NOTE: This GitHub repository supercedes data originally provided at <https://github.com/ekansa/Open-Context-Data/tree/master/data/3DE4CD9C-259E-4C14-9B03-8B10454BA66E>. The original repository grew too large, so we created new repositories for each Open Context project/collection.
