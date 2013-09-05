@@ -75,7 +75,7 @@ M2  C (1)</oc:show_val>
             <oc:relationLink localType="variable" localID="A2989993-BBB4-49B9-BBE7-D88A37018A99" href="http://purl.org/NET/biol/ns#term_hasTaxonomy">
               <oc:vocabulary href="http://purl.org/NET/biol/ns#">Biological Taxonomy Vocabulary</oc:vocabulary>
               <oc:label>Has Biological Taxonomy</oc:label>
-              <oc:targetLink localType="property" localID="9D3313CF-4B51-4CDC-B50A-3CBC27EF6676" localURI="http://opencontext.org/properties/9D3313CF-4B51-4CDC-B50A-3CBC27EF6676" href="http://eol.org/pages/4445655">
+              <oc:targetLink localType="property" localID="9D3313CF-4B51-4CDC-B50A-3CBC27EF6676" localURI="http://opencontext.org/properties/9D3313CF-4B51-4CDC-B50A-3CBC27EF6676" href="http://eol.org/pages/4445650">
                 <oc:vocabulary href=""/>
                 <oc:label>Sus scrofa domesticus</oc:label>
               </oc:targetLink>

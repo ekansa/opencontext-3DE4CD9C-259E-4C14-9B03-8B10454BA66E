@@ -36,7 +36,7 @@
             <oc:relationLink localType="variable" localID="B7CDA162-0316-4456-ABF0-7E58C6C23EDC" href="http://purl.org/NET/biol/ns#term_hasTaxonomy">
               <oc:vocabulary href="http://purl.org/NET/biol/ns#">Biological Taxonomy Vocabulary</oc:vocabulary>
               <oc:label>Has Biological Taxonomy</oc:label>
-              <oc:targetLink localType="property" localID="835F32CC-71BF-4A43-75ED-DB6F365B6802" localURI="http://opencontext.org/properties/835F32CC-71BF-4A43-75ED-DB6F365B6802" href="http://eol.org/pages/8223/entries/24915460">
+              <oc:targetLink localType="property" localID="835F32CC-71BF-4A43-75ED-DB6F365B6802" localURI="http://opencontext.org/properties/835F32CC-71BF-4A43-75ED-DB6F365B6802" href="http://eol.org/pages/8223">
                 <oc:vocabulary href="http://eol.org/">Encyclopedia of Life</oc:vocabulary>
                 <oc:label>Gramineae (grasses)</oc:label>
               </oc:targetLink>
